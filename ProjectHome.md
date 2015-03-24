@@ -1,0 +1,4 @@
+Social approach for disaster management, based on a public portal, so-called Disasters2.0, which provides facilities for integrating and sharing user generated information about disasters. The architecture of Disasters2.0 is designed following REST principles and integrates external mashups, such as Google Maps. This architecture has been integrated with different clients, including a mobile client, a multiagent system for assisting in the decentralized management of disasters, and an expert system for automatic assignment of resources to disasters. As a result, the platform allows seamless collaboration of humans and intelligent agents, and provides a novel web2.0 approach for multiagent and disaster management research and artificial intelligence teaching.
+
+<a href='https://www.gsi.dit.upm.es/index.php/es/software/details/1/10/software-desastres2-0.html'>Disasters 2.0 Homepage</a>
+
